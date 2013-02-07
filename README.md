@@ -5,3 +5,9 @@ The Job Board Manager is a ColdFusion driven job posting and subscription manage
 
 - Allows users to post and confirm a job posting
 - Allows users to subscribe to the job board and be notified of new postings
+- Provides RSS feed of job listings
+
+job.tccfug.com
+/list
+/new
+/edit
